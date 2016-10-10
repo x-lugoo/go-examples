@@ -1,2 +1,2 @@
 # go-examples
-golang learning
+source code for golang learning
