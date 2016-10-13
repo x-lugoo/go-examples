@@ -1,3 +1,5 @@
+// Code for https://tour.go-zh.org/methods/14
+
 package main
 
 import (

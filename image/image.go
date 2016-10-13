@@ -1,4 +1,5 @@
-// This is an implementation for https://tour.go-zh.org/methods/16
+// Code for https://tour.golang.org/methods/24
+
 package main
 
 import (

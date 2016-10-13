@@ -1,4 +1,4 @@
-// Code for https://tour.go-zh.org/moretypes/15
+// Code for https://tour.golang.org/moretypes/18
 
 package main
 

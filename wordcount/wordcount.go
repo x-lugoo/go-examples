@@ -1,3 +1,5 @@
+// Code for https://tour.golang.org/moretypes/23
+
 package main
 
 import (
